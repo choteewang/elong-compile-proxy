@@ -1,0 +1,14 @@
+{
+  "name": "elong-compile-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ctw-fork-taro-cli": "git+ssh://git@github.com:choteewang/ctw-fork-taro-cli.git"
+  }
+}
