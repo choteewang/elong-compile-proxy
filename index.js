@@ -1,9 +1,3 @@
-let build = require('./node_modules/ctw-fork-taro-cli/src/weapp').build
+let build = require('./node_modules/ctw-fork-taro-cli/src/build')
 
-console.log('weappJS')
-console.log(weappJs)
-let build = weappJs.build
-console.log('build')
-console.log(build)
-
-module.export = build
+module.exports = build
