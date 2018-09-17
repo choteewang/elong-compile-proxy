@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ctw-fork-taro-cli": "git+ssh://git@github.com:choteewang/ctw-fork-taro-cli.git"
+    "taro": "git+ssh://git@github.com:choteewang/taro.git#enjoy"
   }
 }
